@@ -1,4 +1,4 @@
-// False:
+// Falsy:
 // false 
 // 0
 // ""
